@@ -2,7 +2,7 @@
   <div>
     <input type="text" v-model="addText" placeholder="ToDoを入力" />
     <button v-on:click="add">追加</button>
-
+    <!-- origin/main -->
     <table>
       <thead>
         <tr>
